@@ -78,7 +78,7 @@ sections:
 
               * I coordinate internships for students, providing them with valuable hands-on experience in their field of study. 
               * Beyond educational support, I am tasked with IT software and hardware maintenance, ensuring the smooth operation of our research group's technological infrastructure. 
-              
+
               * My work also extends to contributing to several projects funded by Baden-Württemberg, where I apply my expertise to advance research and development in pervasive computing. This role allows me to blend my technical skills with my passion for teaching and mentorship, contributing significantly to the academic and professional growth of our students and the broader research community.
         # - title: Professor of Semiconductor Physics
         #   company: University X
@@ -182,8 +182,8 @@ sections:
           tag: SDIL
         - name: EUHUBS4DATA
           tag: EUHUBS4DATA
-        - name: Other
-          tag: Other
+        - name: OTHER
+          tag: OTHER
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
