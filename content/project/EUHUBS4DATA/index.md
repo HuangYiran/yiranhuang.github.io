@@ -1,5 +1,5 @@
 ---
-title: Eurpean Federation of Data Driven Innovation Hubs
+title: European Federation of Data Driven Innovation Hubs
 summary: EUHUBS4DATA is an EU initiative aimed at boosting data-driven innovation among Europe's SMEs. This project seeks to establish a European federation of Data Innovation Hubs by leveraging key existing entities, connecting with diverse ecosystems such as data incubators, SME networks, and AI communities. It will offer a European catalogue of data sources and federated data-driven services to SMEs, start-ups, and web entrepreneurs, enhancing cross-border and sector data experimentation. This effort facilitates data-sharing and service interoperability, positioning itself as a pivotal tool for growth in the global data economy and supporting the development of common European data spaces.
 tags:
   - EUHUBS4DATA
@@ -9,7 +9,7 @@ date: '2019-01-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption:
+  caption: Homepage
   focal_point: Smart
 
 links:
