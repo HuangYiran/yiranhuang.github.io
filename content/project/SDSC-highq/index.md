@@ -1,6 +1,6 @@
 ---
 title: HighQ - Analyzing the hazard potential of cycle paths with the help of AI algorithms
-summary: Smart data Solutions center (SDSC) aimed at leveraging smart data technologies for SMEs in Baden-Württemberg's manufacturing sector. This initiative, supported by the Ministry of Science, Research and Art Baden-Württemberg (MWK), focuses on facilitating SMEs' access to and use of smart data. Through analyzing real industrial datasets, we aim to foster SME awareness and readiness for data innovation, particularly in Industry 4.0 contexts. Our collaboration with companies demonstrates the project's capacity to generate actionable insights and integrate smart technologies into existing systems, promoting data-driven innovation across the region.
+summary: For 20 years, highQ Computerlösungen GmbH has been supporting companies, municipalities and financial institutions with intelligent software solutions for more effective planning, implementation, optimization and controlling of their tasks. The IT solutions make public transportation, for example, smoother and more environmentally friendly.
 tags:
   - SDSC
 date: '2023-01-01T00:00:00Z'
@@ -33,8 +33,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-For 20 years, highQ Computerlösungen GmbH has been supporting companies, municipalities and financial institutions with intelligent software solutions for more effective planning, implementation, optimization and controlling of their tasks. The IT solutions make public transportation, for example, smoother and more environmentally friendly. www.highq.de.
 
 In order to analyze the hazard potential of cycle paths, HighQ prepared seven individual data sets; the SDSC-BW experts in turn contributed free data. The database contained, for example, information from reports on bicycle accidents from the last 20 years (Germany-wide) as well as evaluations of cycle path questionnaires. Other helpful data on German traffic routes and traffic images from the Open-Street-Map portal were also included. The file formats were different: including georeferenced files (GEO) and CSV files ideal for analytics.
 
