@@ -9,7 +9,7 @@ date: '2019-01-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption:''
+  caption:
   focal_point: Smart
 
 links:
