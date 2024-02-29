@@ -6,7 +6,7 @@ tags:
 date: '2019-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.sdsc-bw.de'
+external_link: ''
 
 image:
   caption: Homepage of SDSC project.
