@@ -9,14 +9,14 @@ date: '2019-01-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Homepage of SDSC project.
+  caption: Homepage of SDSC project
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/SDSC_BW
+  - icon: archive
+    icon_pack: academicons
+    name: Homepage
+    url: https://www.sdsc-bw.de/highq-computerloesungen-gmbh/
 url_code: ''
 url_pdf: ''
 url_slides: ''
