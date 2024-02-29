@@ -72,7 +72,7 @@ sections:
           description: |2-
               I am actively involved in the Technology for Pervasive Computing research group, where I play a multifaceted role. My responsibilities include: 
               
-              * supervising undergraduate and master's students with their final projects, ensuring they receive the guidance and support needed to excel. 
+              * I supervise undergraduate and master's students with their final projects, ensuring they receive the guidance and support needed to excel. 
               * I organize both undergraduate and postgraduate seminars, creating platforms for knowledge exchange and fostering an environment of learning and innovation. Additionally, 
               * I coordinate internships for students, providing them with valuable hands-on experience in their field of study. * Beyond educational support, I am tasked with IT software and hardware maintenance, ensuring the smooth operation of our research group's technological infrastructure. 
               * My work also extends to contributing to several projects funded by Baden-Württemberg, where I apply my expertise to advance research and development in pervasive computing. This role allows me to blend my technical skills with my passion for teaching and mentorship, contributing significantly to the academic and professional growth of our students and the broader research community.
@@ -176,8 +176,8 @@ sections:
           tag: SDSC
         - name: SDIL
           tag: SDIL
-        - name: EUHub4Data
-          tag: EUHub4Data
+        - name: EUHUBS4DATA
+          tag: EUHUBS4DATA
         - name: Other
           tag: Other
     design:

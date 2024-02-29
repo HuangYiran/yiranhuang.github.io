@@ -9,13 +9,13 @@ date: '2019-01-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Homepage of SDSC project
+  caption:''
   focal_point: Smart
 
 links:
   - icon: twitter
     icon_pack: fab
-    name: Fello
+    name: Fellow
     url: https://twitter.com/SDIL_DE
 url_code: ''
 url_pdf: ''
