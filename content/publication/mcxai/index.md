@@ -12,7 +12,7 @@ authors:
 author_notes:
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,9 +30,9 @@ publication_short: In *IJCNN*
 abstract: To this day, various approaches for providing local explanation of black box machine learning models have been introduced. Despite these efforts, existing methods suffer from deficiencies such as being difficult to comprehend, only considering one feature at a time and disregarding inter-feature dependencies, lacking meaningful values for each feature, or only highlighting features that support the model’s decision. To overcome these drawbacks, this study presents a new approach to explain the predictions of any black box classifier, called Monte Carlo tree search for eXplainable Artificial Intelligence (McXai). It employs a reinforcement learning strategy and models the explanation generation as two distinct games. In the first game, the objective is to identify feature sets that support the model’s decision, while in the second game, the aim is to find feature sets that lead to alternative decisions. The output is a human-friendly representation in the form of a tree structure, where each node represents a set of features to be examined, with less specific interpretations at the top of the tree. Our experiments demonstrate that the features identified by McXai are more insightful with regard to the classifications compared to traditional algorithm like LIME and Gram-cam. Furthermore, the ability to identify misleading features provides guidance towards improved robustness of the black box classifier.
 
 # Summary. An optional shortened abstract.
-summary: A novel post-hoc explainable approach.
+summary: To this day, various approaches for providing local explanation of black box machine learning models have been introduced. Despite these efforts, existing methods suffer from deficiencies such as being difficult to comprehend, only considering one feature at a time and disregarding inter-feature dependencies, lacking meaningful values for each feature, or only highlighting features that support the model’s decision. To overcome these drawbacks, this study presents a new approach to explain the predictions of any black box classifier, called Monte Carlo tree search for eXplainable Artificial Intelligence (McXai).
 
-tags: [XAI]
+tags: [XAI, Deep Learning]
 
 # Display this page in the Featured widget?
 featured: true
@@ -49,7 +49,7 @@ url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10191756'
 url_project: 'https://www.sdsc-bw.de/'
 # url_slides: ''
 url_source: 'https://ieeexplore.ieee.org/abstract/document/10191756'
-url_video: 'https://youtube.com'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
