@@ -38,13 +38,13 @@ EUHubs4Data is a pioneering initiative aimed at fostering innovation and collabo
 
 The project is structured around four main subprojects, each addressing key aspects of the data ecosystem
 
-* Data Innovation Hubs (DIHs): These hubs serve as focal points for fostering collaboration between industry, academia, and government entities. By providing access to cutting-edge resources and expertise, DIHs empower organizations to harness the full potential of data-driven technologies.
+* Data Innovation Hubs (DIHs) - These hubs serve as focal points for fostering collaboration between industry, academia, and government entities. By providing access to cutting-edge resources and expertise, DIHs empower organizations to harness the full potential of data-driven technologies.
 
-* Data Platforms and Tools: EUHubs4Data develops and promotes innovative data platforms and tools designed to streamline data management, analysis, and visualization. These tools empower users to extract actionable insights from complex datasets, driving informed decision-making and driving innovation.
+* Data Platforms and Tools - EUHubs4Data develops and promotes innovative data platforms and tools designed to streamline data management, analysis, and visualization. These tools empower users to extract actionable insights from complex datasets, driving informed decision-making and driving innovation.
 
-* Training and Capacity Building: Recognizing the importance of human capital in the data-driven economy, EUHubs4Data offers comprehensive training and capacity-building programs. These initiatives equip individuals with the skills and knowledge needed to thrive in an increasingly data-centric world, fostering a vibrant community of data professionals.
+* Training and Capacity Building - Recognizing the importance of human capital in the data-driven economy, EUHubs4Data offers comprehensive training and capacity-building programs. These initiatives equip individuals with the skills and knowledge needed to thrive in an increasingly data-centric world, fostering a vibrant community of data professionals.
 
-* Networking and Collaboration: Central to EUHubs4Data's mission is the facilitation of networking and collaboration among stakeholders across Europe. Through workshops, conferences, and online forums, the project fosters a culture of knowledge exchange and collaboration, driving innovation and advancing the field of data science.
+* Networking and Collaboration - Central to EUHubs4Data's mission is the facilitation of networking and collaboration among stakeholders across Europe. Through workshops, conferences, and online forums, the project fosters a culture of knowledge exchange and collaboration, driving innovation and advancing the field of data science.
 
 I've had the privilege of contributing to some dynamic subprojects aimed at advancing data-driven innovation across Europe. My role within EUHubs4Data has been diverse, spanning across various subprojects aimed at fostering collaboration, developing innovative data platforms and tools, and providing training and capacity-building initiatives. Together with a vibrant community of stakeholders, we're driving forward the frontiers of data science and technology, empowering individuals and organizations to thrive in an increasingly data-centric world.
 
