@@ -3,7 +3,7 @@ title: High-Q: Analyzing the hazard potential of cycle paths with the help of AI
 summary: Smart data Solutions center (SDSC) aimed at leveraging smart data technologies for SMEs in Baden-Württemberg's manufacturing sector. This initiative, supported by the Ministry of Science, Research and Art Baden-Württemberg (MWK), focuses on facilitating SMEs' access to and use of smart data. Through analyzing real industrial datasets, we aim to foster SME awareness and readiness for data innovation, particularly in Industry 4.0 contexts. Our collaboration with companies demonstrates the project's capacity to generate actionable insights and integrate smart technologies into existing systems, promoting data-driven innovation across the region.
 tags:
   - SDSC
-date: '2023'
+date: '2023-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/SDSC_BW
+  - icon: archive
+    icon_pack: academicons
+    name: Homepage
+    url: https://www.sdsc-bw.de/highq-computerloesungen-gmbh
 url_code: ''
 url_pdf: ''
 url_slides: ''
