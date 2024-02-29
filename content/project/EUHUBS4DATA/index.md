@@ -36,7 +36,7 @@ slides: example
 
 EUHubs4Data is a pioneering initiative aimed at fostering innovation and collaboration in the field of data-driven technologies across Europe. As a consortium of leading academic and industrial partners, EUHubs4Data seeks to advance the development and utilization of data infrastructure, tools, and expertise to drive economic growth and societal benefit.
 
-The project is structured around four main subprojects, each addressing key aspects of the data ecosystem:
+The project is structured around four main subprojects, each addressing key aspects of the data ecosystem
 
 * Data Innovation Hubs (DIHs): These hubs serve as focal points for fostering collaboration between industry, academia, and government entities. By providing access to cutting-edge resources and expertise, DIHs empower organizations to harness the full potential of data-driven technologies.
 
