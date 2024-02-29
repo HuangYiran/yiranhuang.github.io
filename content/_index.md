@@ -62,27 +62,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Academic Associates
+          company: Karlsruhe Institute of Technology
+          company_url: 'https://www.kit.edu/english/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Karlsruhe, Germany
+          date_start: '2019-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              I am actively involved in the Technology for Pervasive Computing research group, where I play a multifaceted role. My responsibilities include supervising undergraduate and master's students with their final projects, ensuring they receive the guidance and support needed to excel. I organize both undergraduate and postgraduate seminars, creating platforms for knowledge exchange and fostering an environment of learning and innovation. Additionally, I coordinate internships for students, providing them with valuable hands-on experience in their field of study. Beyond educational support, I am tasked with IT software and hardware maintenance, ensuring the smooth operation of our research group's technological infrastructure. My work also extends to contributing to several projects funded by Baden-Württemberg, where I apply my expertise to advance research and development in pervasive computing. This role allows me to blend my technical skills with my passion for teaching and mentorship, contributing significantly to the academic and professional growth of our students and the broader research community.
+        # - title: Professor of Semiconductor Physics
+        #   company: University X
+        #   company_url: ''
+        #   company_logo: org-x
+        #   location: California
+        #   date_start: '2016-01-01'
+        #   date_end: '2020-12-31'
+        #   description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
