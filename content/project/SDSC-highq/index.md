@@ -16,6 +16,10 @@ links:
   - icon: archive
     icon_pack: academicons
     name: Homepage
+    url: https://www.highq.de/
+  - icon: obp
+    icon_pack: academicons
+    name: Project
     url: https://www.sdsc-bw.de/highq-computerloesungen-gmbh
 url_code: ''
 url_pdf: ''
