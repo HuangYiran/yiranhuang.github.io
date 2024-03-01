@@ -1,13 +1,13 @@
 ---
-title: 'Universal Distributional Decision-Based Black-Box Adversarial Attack with Reinforcement Learning'
+title: 'Automatic Feature Engineering Through Monte Carlo Tree Search'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Yexu Zhou
   - Michael Hefenbrock
+  - Yexu Zhou
   - Likun Fang
   - Till Riedel
   - Michael Beigl
@@ -28,15 +28,15 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Neural Information Processing*
-publication_short: In *ICONIP*
+publication: In *Joint European Conference on Machine Learning and Knowledge Discovery in Databases*
+publication_short: In *ECML PKDD*
 
-abstract: The vulnerability of the high-performance machine learning models implies a security risk in applications with real-world consequences. Research on adversarial attacks is beneficial in guiding the development of machine learning models on the one hand and finding targeted defenses on the other. However, most of the adversarial attacks today leverage the gradient or logit information from the models to generate adversarial perturbation. Works in the more realistic domain decision-based attacks, which generate adversarial perturbation solely based on observing the output label of the targeted model, are still relatively rare and mostly use gradient-estimation strategies. In this work, we propose a pixel-wise decision-based attack algorithm that finds a distribution of adversarial perturbation through a reinforcement learning algorithm. We call this method Decision-based Black-box Attack with Reinforcement learning (DBAR). Experiments show that the proposed approach outperforms state-of-the-art decision-based attacks with a higher attack success rate and greater transferability.
+abstract: The performance of machine learning models depends heavily on the feature space and feature engineering. Although neural networks have made significant progress in learning latent feature spaces from data, compositional feature engineering through nested feature transformations can reduce model complexity and can be particularly desirable for interpretability. To find suitable transformations automatically, state-of-the-art methods model the feature transformation space by graph structures and use heuristics such as -greedy to search for them. Such search strategies tend to become less efficient over time because they do not consider the sequential information of the candidate sequences and cannot dynamically adjust the heuristic strategy. To address these shortcomings, we propose a reinforcement learning-based automatic feature engineering method, which we call Monte Carlo tree search Automatic Feature Engineering (mCAFE). We employ a surrogate model that can capture the sequential information contained in the transformation sequence and thus can dynamically adjust the exploration strategy. It balances exploration and exploitation by Thompson sampling and uses a Long Short Term Memory (LSTM) based surrogate model to estimate sequences of promising transformations. In our experiments, mCAFE outperformed state-of-the-art automatic feature engineering methods on most common benchmark datasets.
 
 # Summary. An optional shortened abstract.
-summary: The vulnerability of the high-performance machine learning models implies a security risk in applications with real-world consequences. In this work, we propose a pixel-wise decision-based attack algorithm that finds a distribution of adversarial perturbation through a reinforcement learning algorithm.
+summary: The performance of machine learning models depends heavily on the feature space and feature engineering. Although neural networks have made significant progress in learning latent feature spaces from data, compositional feature engineering through nested feature transformations can reduce model complexity and can be particularly desirable for interpretability. To address these shortcomings, we propose a reinforcement learning-based automatic feature engineering method, which we call Monte Carlo tree search Automatic Feature Engineering (mCAFE).
 
-tags: [Adversary Attack, Deep Learning]
+tags: [Automatic Machine Learning, Reinforcement Learning]
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,13 +46,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-30111-7_18'
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-26409-2_35'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 url_project: 'https://www.sdsc-bw.de/'
 # url_slides: ''
-url_source: 'https://link.springer.com/chapter/10.1007/978-3-031-30111-7_18'
+url_source: 'https://link.springer.com/chapter/10.1007/978-3-031-26409-2_35'
 # url_video: 'https://youtube.com'
 
 # Featured image
