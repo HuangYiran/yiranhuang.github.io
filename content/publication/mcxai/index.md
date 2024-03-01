@@ -6,7 +6,11 @@ title: 'McXai: Local Model-Agnostic Explanation As Two Games'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Nicole Schaal
+  - Michael Hefenbrock
   - Yexu Zhou
+  - Till Riedel
+  - Michael Beigl
 
 # Author notes (optional)
 author_notes:
