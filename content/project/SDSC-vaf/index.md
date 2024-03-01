@@ -1,6 +1,7 @@
 ---
 title: VAF - A machine learning approach for the most important factors that influence production time
 summary: In this joint project, the SDSC-BW has shown how valuable our data is. For us as a medium-sized company, the collaboration with the research experts was particularly helpful.
+
 tags:
   - SDSC
 date: '2023-01-01T00:00:00Z'

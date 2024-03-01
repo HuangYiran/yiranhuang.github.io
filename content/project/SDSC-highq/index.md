@@ -1,6 +1,6 @@
 ---
 title: HighQ - Analyzing the hazard potential of cycle paths with the help of AI algorithms
-summary: For 20 years, highQ Computerlösungen GmbH has been supporting companies, municipalities and financial institutions with intelligent software solutions for more effective planning, implementation, optimization and controlling of their tasks. The IT solutions make public transportation, for example, smoother and more environmentally friendly.
+summary: The results of our very valuable and professional collaboration with the SDSC-BW have a direct impact on our development processes.
 tags:
   - SDSC
 date: '2023-01-01T00:00:00Z'
@@ -33,6 +33,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+For 20 years, highQ Computerlösungen GmbH has been supporting companies, municipalities and financial institutions with intelligent software solutions for more effective planning, implementation, optimization and controlling of their tasks. The IT solutions make public transportation, for example, smoother and more environmentally friendly.
 
 In order to analyze the hazard potential of cycle paths, HighQ prepared seven individual data sets; the SDSC-BW experts in turn contributed free data. The database contained, for example, information from reports on bicycle accidents from the last 20 years (Germany-wide) as well as evaluations of cycle path questionnaires. Other helpful data on German traffic routes and traffic images from the Open-Street-Map portal were also included. The file formats were different: including georeferenced files (GEO) and CSV files ideal for analytics.
 
