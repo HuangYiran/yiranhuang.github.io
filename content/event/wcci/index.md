@@ -1,5 +1,5 @@
 ---
-title: Presentation at Percom 2024
+title: Presentation at IJCNN 2024
 
 event: The International Joint Conference on Neural Networks (IJCNN 2024)
 event_url: https://2024.ieeewcci.org/
@@ -28,7 +28,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
