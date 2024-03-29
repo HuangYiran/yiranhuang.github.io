@@ -32,7 +32,7 @@ interests:
   - Artificial Intelligence
   - Data Mining
   - XAI
-  - Local LLM
+  - AIGC
 
 # Education to show in About widget
 education:
