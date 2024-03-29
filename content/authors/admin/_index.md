@@ -54,12 +54,17 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
         percent: 100
+        icon: chart-line
+        icon_pack: fas
+      - name: Local LLM
+        description: ''
+        percent: 70
         icon: chart-line
         icon_pack: fas
       - name: SQL
