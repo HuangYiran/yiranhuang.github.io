@@ -32,6 +32,7 @@ interests:
   - Artificial Intelligence
   - Data Mining
   - XAI
+  - Local LLM
 
 # Education to show in About widget
 education:
