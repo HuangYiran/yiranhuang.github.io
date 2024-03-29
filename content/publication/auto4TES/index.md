@@ -6,9 +6,8 @@ title: 'Optimizing AutoML for Tiny Edge Systems: A Baldwin-effect Inspired Genet
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Michael Hefenbrock
   - Yexu Zhou
-  - Likun Fang
+  - Haibin Zhao
   - Till Riedel
   - Michael Beigl
 
