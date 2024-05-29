@@ -12,7 +12,7 @@ address:
   postcode: 
   country: LITHUANIA
 
-summary: Presentation for the conference paper - ExTea: An Evolutionary Algorithm-Based Approach for Enhancing Explainability in Time-Series Models.
+summary: Presentation for the conference paper - ExTea An Evolutionary Algorithm-Based Approach for Enhancing Explainability in Time-Series Models.
 abstract: 'In the expanding realm of sensor-based applications, the reliance on time-series data has surged, posing challenges in explaining the decisions of complex black-box time-series models. Existing Explainable Artificial Intelligence (XAI) approaches such as SBXAI, MCXAI and TS-MULE offer insights into these models but face limitations in generating multiple explanations, exploring time-series-specific characteristics, optimizing found cognitive blocks, and setting appropriate hyperparameters. Addressing these challenges, we introduce an EXplainable artificial intelligence method targeting Time-series model based on Evolutionary Algorithm (ExTea). ExTea conceptualizes explanations as evolving individuals and employs an innovative pyramidal structure for optimizing potential explanations, categorized into newborn, tested, and elite stages. This approach incorporates time-series characteristics into the fitness function of individual evaluation, thereby enhancing the overall explanatory power. Extensive experiments on six benchmark datasets with four target models demonstrate that the performance of ExTea significantly exceeds the state-of-the-art time-series XAI algorithms, SBXAI and MCXAI.'
 
 # Talk start and end times.
