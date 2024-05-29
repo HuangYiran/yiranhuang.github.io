@@ -32,6 +32,7 @@ interests:
   - Artificial Intelligence
   - Data Mining
   - XAI
+  - LLM - RAG/finetune/agent
   - AIGC
 
 # Education to show in About widget
